@@ -43,10 +43,10 @@ create table racun(
  insert into djelatnica (sifra,ime,prezime,oib,email) values
  (null,'Jana','Romić','236514569845','jromic@gmail.com'),
  (null,'Karolina','Novoselac','12436598652','karolinanovoselac@gmail.com'),
- (null,'Biba','Cvetković','6598564578','cvetkovicbiba@gmail.com');
+ (null,'Biba','Cvetković','65985645789','cvetkovicbiba@gmail.com');
 
  insert into dobavljac(sifra,naziv,adresa,oib) values
-(null,'Factory','Josipa Kozarca 65,Zagreb','3986598547'),
+(null,'Factory','Josipa Kozarca 65,Zagreb','39865985471'),
 (null,'Petra','Matije Petra Katančića 103,Split','63265489754'),
 (null,'Vita','Dubrovačka ulica 79,Rijeka','48756983210'),
 (null,'Nakit','Ive Lole Ribara 305,Osijek','12465986352');
